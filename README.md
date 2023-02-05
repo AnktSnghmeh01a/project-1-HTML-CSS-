@@ -1,2 +1,2 @@
-# project-3-HTML-CSS-
+# project-1-HTML-CSS-
 this is project 3
